@@ -1,0 +1,34 @@
+$align: center;
+
+#app {
+    background: lightblue;
+}
+
+body {
+    background: lightblue;
+}
+
+.site-title {
+    text-align: $align;
+}
+
+.site-info {
+    text-align: $align;
+
+    h5 {
+        padding-left: 30px;
+    }
+}
+
+.site-landing {
+    text-align: $align;
+}
+
+.nav-link {
+    font-size: 18px;
+}
+
+.contact-card {
+    margin-left: 100px;
+
+}

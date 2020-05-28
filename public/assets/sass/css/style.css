@@ -1,0 +1,32 @@
+#app {
+  background: lightblue;
+}
+
+body {
+  background: lightblue;
+}
+
+.site-title {
+  text-align: center;
+}
+
+.site-info {
+  text-align: center;
+}
+.site-info h5 {
+  padding-left: 30px;
+}
+
+.site-landing {
+  text-align: center;
+}
+
+.nav-link {
+  font-size: 18px;
+}
+
+.contact-card {
+  margin-left: 100px;
+}
+
+/*# sourceMappingURL=style.css.map */
